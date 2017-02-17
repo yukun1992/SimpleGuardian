@@ -1,6 +1,6 @@
 <snippet>
-  <content><![CDATA[
-# ${1:SimpleGuardian}
+  <content>
+# ${SimpleGuardian}
 TODO: Write a project description
 ## Installation
 TODO: Describe the installation process
