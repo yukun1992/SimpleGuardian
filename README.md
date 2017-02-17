@@ -3,7 +3,7 @@
 # SimpleGuardian
 A NewsApp for Udacity Android Developper program
 ## Feature
-ViewPage + fragement \<br>
+ViewPage + Fragement <br>
 PagerSlidingTab
 ## Usage
 TODO: Write usage instructions
