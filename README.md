@@ -8,6 +8,6 @@ PagerSlidingTab <br>
 ![img](https://github.com/yukun1992/SimpleGuardian/blob/master/demo.gif)
 
 </content>
-  <tabTrigger>readme</tabTrigger>
+  <tabTrigger></tabTrigger>
 </snippet>
 
