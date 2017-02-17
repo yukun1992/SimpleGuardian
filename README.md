@@ -4,7 +4,8 @@
 A NewsApp for Udacity Android Developper program
 ## Feature
 ViewPage + Fragement <br>
-PagerSlidingTab
+PagerSlidingTab <br>
+![img](https://github.com/yukun1992/SimpleGuardian/blob/master/demo.gif)
 ## Usage
 TODO: Write usage instructions
 ## Contributing
