@@ -233,6 +233,7 @@ public class MainActivity extends AppCompatActivity
         public int getCount() {
             ArrayList<String> res = getDragTags();
             return res.size();
+
         }
 
         @Override
