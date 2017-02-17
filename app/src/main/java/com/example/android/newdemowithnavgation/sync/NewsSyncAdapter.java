@@ -146,7 +146,7 @@ public class NewsSyncAdapter extends AbstractThreadedSyncAdapter {
         HttpURLConnection urlConnection = null;
         BufferedReader reader = null;
         String News_BASE_URL="https://content.guardianapis.com/search?api-key=";
-        String News_API_KEY ="8ccc2312-42d9-47d8-8bca-40041670c39c" + "&q=";
+        String News_API_KEY ="" + "&q=";
         String News_BASE_URL2 ="&show-fields=thumbnail,headline";
         String News_FINAL_URL = News_BASE_URL + News_API_KEY + mtab.toLowerCase() + News_BASE_URL2;
         Log.i("News_FINAL_URL", News_FINAL_URL);
