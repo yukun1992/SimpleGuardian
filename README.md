@@ -7,10 +7,7 @@ ViewPage + Fragement <br>
 PagerSlidingTab <br>
 ![img](https://github.com/yukun1992/SimpleGuardian/blob/master/demo.gif)
 
-
-## License
-TODO: Write license
-></content>
+</content>
   <tabTrigger>readme</tabTrigger>
 </snippet>
 
