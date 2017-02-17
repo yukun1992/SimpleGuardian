@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">SimpleGuardian</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Adding more tabs</string>
+
+
+    <!-- SyncAdapter related -->
+    <string name="sync_account_type">newdemowithnavgation.example.com</string>
+    <string name="content_authority">com.example.android.newdemowithnavgation</string>
+
+
+    <string name="switch_tags">Switch tags</string>
+    <string name="sort_or_delete_by_pressing_hard">Sort or delete by pressing hard</string>
+    <string name="add_more_tags" translatable="false">Add more tags</string>
+    <string name="news_image">News image</string>
+    <string name="news_headline">News headline</string>
+
+</resources>

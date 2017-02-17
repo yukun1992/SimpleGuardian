@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SimpleGuardian</string>
+    <string name="add_more_tags" translatable="false">添加标签</string>
+    <string name="action_settings">添加标签</string>
+    <string name="sort_or_delete_by_pressing_hard">长按添加标签或删除</string>
+    <string name="switch_tags">切换标签</string>
+</resources>
