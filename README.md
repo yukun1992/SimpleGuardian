@@ -1,9 +1,10 @@
 <snippet>
   <content>
 # SimpleGuardian
-TODO: Write a project description
-## Installation
-TODO: Describe the installation process
+A NewsApp for Udacity Android Developper program
+## Feature
+ViewPage + fragement \<br>
+PagerSlidingTab
 ## Usage
 TODO: Write usage instructions
 ## Contributing
