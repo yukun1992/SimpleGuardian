@@ -12,6 +12,8 @@ Prevent viewpager pre-laod <br>
 
 ## Reference
 [PagerSlidingTabStrip](https://github.com/astuetz/PagerSlidingTabStrip)
+[LazyFragment](https://github.com/xmagicj/LazyFragment) To prevent viewpager pre-loading
+[EasyTagDragView](https://github.com/wenhuaijun/EasyTagDragView) Add or delete tags dynamically 
 </content>
   <tabTrigger></tabTrigger>
 </snippet>
