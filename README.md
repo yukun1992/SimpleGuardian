@@ -6,7 +6,8 @@ A NewsApp for Udacity Android Developper program
 ViewPage + Fragement <br>
 PagerSlidingTab <br>
 Add or delete tabs dynamically <br>
-Prevent viewpager pre-laod 
+Prevent viewpager pre-laod <br>
+
 ![img](SimpleGuardian/demo.gif)
 
 
