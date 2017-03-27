@@ -7,7 +7,7 @@ ViewPage + Fragement <br>
 PagerSlidingTab <br>
 Add or delete tabs dynamically <br>
 Prevent viewpager pre-laod <br>
-![Image text](https://github.com/yukun1992/SimpleGuardian/blob/master/demo.gif)
+![Image text](SimpleGuardian/demo.gif)
 
 
 ## Reference
