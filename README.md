@@ -2,7 +2,7 @@
   <content>
 # SimpleGuardian <br>
 A NewsApp for Udacity Android Developper program <br>
-## Feature
+## Feature <br>
 ViewPage + Fragement <br>
 PagerSlidingTab <br>
 Add or delete tabs dynamically <br>
