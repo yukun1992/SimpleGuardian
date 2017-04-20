@@ -1,7 +1,7 @@
 <snippet>
   <content>
-# SimpleGuardian
-A NewsApp for Udacity Android Developper program
+# SimpleGuardian <br>
+A NewsApp for Udacity Android Developper program <br>
 ## Feature
 ViewPage + Fragement <br>
 PagerSlidingTab <br>
