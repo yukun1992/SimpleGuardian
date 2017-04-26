@@ -2,6 +2,7 @@
 # SimpleGuardian <br>
 A NewsApp for Udacity Android Developper program <br>
 ## Feature <br>
+prase Guardian API <br>
 ViewPage + Fragement <br>
 PagerSlidingTab <br>
 Add or delete tabs dynamically <br>
